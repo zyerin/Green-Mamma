@@ -9,7 +9,7 @@
 ## :computer: 사용 스택  
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-139aa0?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/AdroidStudio-3DDC84?style=flat&logo=AdroidStudio&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-e11f20?style=flat&logo=JAVA&logoColor=white"/>  
 
-## 📖 제공기능  
+## 📑 제공기능  
   ### <p align = "center"> 1. 로그인 :closed_lock_with_key:</p>  
 
   
@@ -31,7 +31,7 @@
    
    <p align = "center"> 화분내 토양수분도를 측정하여 실시간으로 어플에 표시해줍니다. 토양수분도가 40%이하라면 물 줄 시기가 왔음을 알리는 푸시알림이 전송되며, 프로필내 캐릭터가 울고 있는 모습으로 바뀝니다. 토양수분도가 40~70이라면 캐틱터가 웃고있는 모습을 보실 수 있습니다. 또한 토양수분도가 70이상이라면 물을 그만 줘야함을 알리는 푸시알림이 전송되며, 프로필내 캐릭터가 울고 있는 모습으로 바뀝니다.</p>  
     
-   ### <p align = "center"> 5. 일기 📑</p>  
+   ### <p align = "center"> 5. 일기 📖</p>  
   
     
    <p align = "center">식물의 성장과정을 기록할 수 있는 일기장 기능도 제공합니다. 날짜별로 사진 한 장과 함께 성장과정을 기록할 수 있습니다.</p> 
