@@ -9,7 +9,7 @@
 ## :computer:사용 스택  
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-139aa0?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/AdroidStudio-3DDC84?style=flat&logo=AdroidStudio&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-e11f20?style=flat&logo=JAVA&logoColor=white"/>  
 
-## <p align = "center">:gift:제공기능 :gift:</p>  
+## 📖 제공기능  
   ### <p align = "center">:closed_lock_with_key: 1. 로그인 :closed_lock_with_key:</p>  
 
   
@@ -20,12 +20,12 @@
   
   <p align = "center">키우고싶은 반려식물을 고른 후, 해당 식물의 키트를 주문할 수 있습니다. 키트에는 흙, 화분, 씨앗, ESP8266모듈과 토양수분센서가 포함되어있습니다. </p> 
     
-  ### <p align = "center">:sunglasses: 3. 식물 프로필 설정 :sunglasses:</p>   
+  ### <p align = "center">:smiley: 3. 식물 프로필 설정 :smiley:</p>   
  
   <p align = "center">식물의 캐릭터를 선택할 수 있으며, 식물의 이름도 직접 지어줄 수 있습니다. 반려 식물 키트를 배송받으면 키트내에 사용자 설명서도 같이 동봉되어 있을 것입니다. 설명서에 적혀있는 키도 입력해주셔야 자신의 식물의 토양수분도를 어플에서 실시간로 확인 가능합니다.</p> 
   
     
-   ### <p align = "center">:pencil2: 4. 화분내 토양수분 관리 :pencil2:</p>  
+   ### <p align = "center">:sunflower: 4. 화분내 토양수분 관리 :sunflower:</p>  
   
   
    
@@ -35,9 +35,10 @@
   
     
    <p align = "center">식물의 성장과정을 기록할 수 있는 일기장 기능도 제공합니다. 날짜별로 사진 한 장과 함께 성장과정을 기록할 수 있습니다.</p> 
+   ---
 
 
 
-## <p align = "center">📝:UI 설계 📝:</p>
+## ✏️ UI 설계
 ![UI 다이어그램](https://github.com/zyerin/Green-Mamma/assets/131842185/ea67abec-22ad-4762-a553-3fa7f37dc612)
 
