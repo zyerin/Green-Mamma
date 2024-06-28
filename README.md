@@ -35,3 +35,7 @@
   
     
    <p align = "center">식물의 성장과정을 기록할 수 있는 일기장 기능도 제공합니다. 날짜별로 사진 한 장과 함께 성장과정을 기록할 수 있습니다.</p> 
+
+## <p align = "center">:gift:UI 설계 :gift:</p>
+![UI 다이어그램](https://github.com/zyerin/Green-Mamma/assets/131842185/ea67abec-22ad-4762-a553-3fa7f37dc612)
+
