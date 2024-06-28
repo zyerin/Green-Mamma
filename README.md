@@ -6,7 +6,7 @@
   저희 어플은 식물을 키우고 싶지만 물주기에 서툰 초보 식물집사들에게 적합한 반려식물 매니징 어플입니다. 그린맘마는 사용자에게 화분과 토양수분센서를 포함한 자체제작 반려식물키트를 제공합니다. 이 센서를 통하여 수분량을 측정해 물주기 push 알림을 받아 까먹지 않고 식물을 잘 관리할 수 있게 도와줍니다. 그 외에도 다양한 기능을 통해 식물을 키우는 재미와 지친 삶 속의 취미를 제공해줍니다. 이처럼 사용자는 간편하지만 체계적으로 식물을 관리할 수 있는 효과를 볼 수 있을 것입니다. </p>
 <p align = "center"></p>  
 
-## :computer:사용 스택  
+## :computer: 사용 스택  
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-139aa0?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/AdroidStudio-3DDC84?style=flat&logo=AdroidStudio&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-e11f20?style=flat&logo=JAVA&logoColor=white"/>  
 
 ## 📖 제공기능  
@@ -31,7 +31,7 @@
    
    <p align = "center"> 화분내 토양수분도를 측정하여 실시간으로 어플에 표시해줍니다. 토양수분도가 40%이하라면 물 줄 시기가 왔음을 알리는 푸시알림이 전송되며, 프로필내 캐릭터가 울고 있는 모습으로 바뀝니다. 토양수분도가 40~70이라면 캐틱터가 웃고있는 모습을 보실 수 있습니다. 또한 토양수분도가 70이상이라면 물을 그만 줘야함을 알리는 푸시알림이 전송되며, 프로필내 캐릭터가 울고 있는 모습으로 바뀝니다.</p>  
     
-   ### <p align = "center">📑 5. 일기 📑</p>  
+   ### <p align = "center">📘 5. 일기 📘</p>  
   
     
    <p align = "center">식물의 성장과정을 기록할 수 있는 일기장 기능도 제공합니다. 날짜별로 사진 한 장과 함께 성장과정을 기록할 수 있습니다.</p> 
@@ -39,6 +39,6 @@
 
 
 
-## 🖋️ UI 설계
+## 📝 UI 설계
 ![UI 다이어그램](https://github.com/zyerin/Green-Mamma/assets/131842185/ea67abec-22ad-4762-a553-3fa7f37dc612)
 
